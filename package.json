@@ -1,0 +1,19 @@
+{
+  "name": "image-abs-layer",
+  "version": "1.0.0",
+  "description": "gets image url for provided search string",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1",
+    "mongodb": "^2.2.22",
+    "node-bing-api": "^3.2.1",
+    "path": "^0.12.7",
+    "pug": "^2.0.0-beta11",
+    "util": "^0.10.3"
+  }
+}
